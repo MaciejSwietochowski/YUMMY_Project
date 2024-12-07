@@ -1,6 +1,3 @@
-# Yummy Project
-
-
 ## <a name="About projects">Project</a>
 
 <p>What was the project like? It was a 7-day group work on an Yummy application that resulted in a complete QA manual testing project.</p>
