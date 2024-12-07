@@ -1,4 +1,4 @@
-# YUMMY_Project
+# Yummy Project
 
 
 ## <a name="About projects">Project</a>
