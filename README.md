@@ -20,6 +20,6 @@
 
 👉 [Task 1: Checkist design mobile version](https://docs.google.com/spreadsheets/d/1exngv6KbeBrJrw9ltkRgFoux1nFuRp9n1un_LrYW9A0/edit?usp=sharing)
 
-👉 [Task 2: Test cases]:(https://github.com/MaciejSwietochowski/TestCases/blob/main/README.md)
+👉 [Task 2: Test cases](https://github.com/MaciejSwietochowski/TestCases)
 
-👉 [Task 3: Bug Reports]()
+👉 [Task 3: Bug Reports](https://docs.google.com/spreadsheets/d/1QTVahveOiUaTHQXnfhOMtKX2Ht92IDFJAzKiNRCgOx0/edit?gid=0#gid=0)
